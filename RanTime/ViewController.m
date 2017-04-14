@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+    //注释
     UIView *bgview = [[UIView alloc] initWithFrame:CGRectMake(20, 20, 40, 40)];
     [bgview setBackgroundColor:[UIColor yellowColor]];
     [self.view addSubview:bgview];
